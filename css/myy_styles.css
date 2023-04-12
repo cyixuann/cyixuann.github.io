@@ -43,3 +43,7 @@ body {
  .social-icons .social-icon:hover {
     background-color: var(--bs-secondary);
  }
+
+ .fa-ul{
+   font-size: 1.1rem;
+ }
