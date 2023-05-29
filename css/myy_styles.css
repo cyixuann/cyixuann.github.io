@@ -60,3 +60,12 @@ body {
    width: 310px;
 }
 
+.btn {
+   background-color: #6FB7B7;
+}
+
+.btn:hover {
+   background-color: #95CACA;
+}
+
+
